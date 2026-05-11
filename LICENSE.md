@@ -1,4 +1,4 @@
-# 
+# automatic OneNote for Windows Integration | collaboration + database-creation offers the most advanced OneNote for Windows integration, with collaboration and database-creation.
 
 
 
